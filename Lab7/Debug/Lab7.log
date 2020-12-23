@@ -1,0 +1,5 @@
+﻿  Lab7.cpp
+C:\Users\Пользователь\Desktop\все лабы\Гитхаб ЛОГИКА\OlegPetrov19BB2\Lab7\Lab7.cpp(32,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Пользователь\Desktop\все лабы\Гитхаб ЛОГИКА\OlegPetrov19BB2\Lab7\Lab7.cpp(100,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пользователь\Desktop\все лабы\Гитхаб ЛОГИКА\OlegPetrov19BB2\Lab7\Lab7.cpp(173,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab7.vcxproj -> C:\Users\Пользователь\Desktop\все лабы\Гитхаб ЛОГИКА\OlegPetrov19BB2\Lab7\Debug\Lab7.exe
