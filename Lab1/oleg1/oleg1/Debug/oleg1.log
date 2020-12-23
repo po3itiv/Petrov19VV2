@@ -1,0 +1,17 @@
+﻿Построение начато 08.09.2020 18:53:23.
+     1>Проект "C:\Users\User\Desktop\oleg1\oleg1\oleg1.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\oleg1.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         oleg1.vcxproj -> C:\Users\User\Desktop\oleg1\Debug\oleg1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\oleg1.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\oleg1.lastbuildstate".
+     1>Построение проекта "C:\Users\User\Desktop\oleg1\oleg1\oleg1.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.03
