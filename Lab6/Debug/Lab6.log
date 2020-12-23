@@ -1,0 +1,6 @@
+﻿  Lab6.cpp
+C:\Users\Пользователь\Desktop\все лабы\Гитхаб ЛОГИКА\OlegPetrov19BB2\Lab6\Lab6.cpp(48,13): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Пользователь\Desktop\все лабы\Гитхаб ЛОГИКА\OlegPetrov19BB2\Lab6\Lab6.cpp(118,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пользователь\Desktop\все лабы\Гитхаб ЛОГИКА\OlegPetrov19BB2\Lab6\Lab6.cpp(164,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\Desktop\все лабы\Гитхаб ЛОГИКА\OlegPetrov19BB2\Lab6\Lab6.cpp(167,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  Lab6.vcxproj -> C:\Users\Пользователь\Desktop\все лабы\Гитхаб ЛОГИКА\OlegPetrov19BB2\Lab6\Debug\Lab6.exe
